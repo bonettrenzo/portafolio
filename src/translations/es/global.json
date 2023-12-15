@@ -1,0 +1,39 @@
+{
+    "navbar": {
+        "home": "Inicio",
+        "about" : "Sobre mi",
+        "portfolio": "Portafolio",
+        "expirence" : "Experiencia",
+        "contact": "Contact"
+    },
+    "home":{
+        "title": "Desarrollador web",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis iure repudiandae, eaque sequi doloremque eveniet eligendi, quaerat deleniti alias, sit assumenda placeat tempore reiciendis possimus fugiat! Quia ad ipsam autem.",
+        "text-button": "Portafolio"
+    },
+    "about":{
+        "title": "Sobre Mi",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis iure repudiandae, eaque sequi doloremque eveniet eligendi, quaerat deleniti alias, sit assumenda placeat tempore reiciendis possimus fugiat! Quia ad ipsam autem."
+    },
+    "portfolio":{
+        "title": "Portafolio",
+        "text": "mira algunos de mis trabajos aquí"
+    },
+    "expirence":{
+        "title": "Experiencia",
+        "text": "estas son las tecnologías con las que he trabajado"
+    },
+    "contact": {
+        "title":"Contacto",
+        "text": "Envíe el siguiente formulario para ponerse en contacto conmigo",
+        "input-name": "Ingresa tu nombre",
+        "input-email": "Ingresa tu email",
+        "input-message": "escribe un mensaje",
+        "button-text": "Hablemos!"
+    },
+   "language": {
+        "text" : "elige tu idioma",
+        "alt-espanol":"icono de bandera español",
+        "alt-ingles": "icono de bandera ingles"
+    }
+}

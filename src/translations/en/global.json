@@ -1,0 +1,39 @@
+{
+    "navbar": {
+        "home": "Home",
+        "about" : "About",
+        "portfolio": "Portfolio",
+        "expirence" : "Expirence",
+        "contact": "Contact"
+    },
+    "home":{
+        "title": "im a full stack developer",
+        "text": "iure repudiandae, eaque sequi doloremque eveniet eligendi, quaerat deleniti alias, sit assumenda placeat tempore reiciendis possimus fugiat! Quia ad ipsam autem.",
+        "text-button": "Portfolio"
+    },
+    "about":{
+        "title": "About",
+        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis iure repudiandae, eaque sequi doloremque eveniet eligendi, quaerat deleniti alias, sit assumenda placeat tempore reiciendis possimus fugiat! Quia ad ipsam autem."
+    },
+    "portfolio":{
+        "title": "Portfolio",
+        "text": "check out some of my work right here"
+    },
+    "expirence":{
+        "title": "Expirence",
+        "text": "these are the technologies I've worked with"
+    },
+    "contact": {
+        "title":"Contact",
+        "text": "Submit the form below to get in touch with me",
+        "input-name": "enter your message",
+        "input-email": "enter your email",
+        "input-message": "enter your message",
+        "button-text": "let's talk"
+    },
+    "language": {
+        "text" : "Choose your language",
+        "alt-espanol":"Spanish flag icon",
+        "alt-ingles": "icono de bandera english"
+    }
+}
