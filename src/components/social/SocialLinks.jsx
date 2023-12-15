@@ -2,7 +2,6 @@ import React from 'react'
 import {FaGithub, FaLinkedin} from "react-icons/fa"
 import {AiOutlineMail} from "react-icons/ai"
 import {BsFillPersonLinesFill} from "react-icons/bs"
-import curriculum from "../../assets/curriculum.pdf"
 
 const SocialLinks = () => {
 
@@ -28,7 +27,7 @@ const SocialLinks = () => {
         {
             id: 4,
             child: <> Curriculum <BsFillPersonLinesFill size={30} />   </>,
-            href : curriculum,
+            href : "https://drive.google.com/file/d/1LcXEiZgqp2UDrINgsUe4yld4ZM9LKBGW/view?usp=drive_link",
             style : "rounded-tr-md",
             download: true
         },
