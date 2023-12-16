@@ -7,13 +7,14 @@
         "contact": "Contact"
     },
     "home":{
-        "title": "Desarrollador web",
-        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis iure repudiandae, eaque sequi doloremque eveniet eligendi, quaerat deleniti alias, sit assumenda placeat tempore reiciendis possimus fugiat! Quia ad ipsam autem.",
+        "title": "Desarrollador web junior",
+        "text": "Mi nombre es Renzo Boneth, soy un desarrollador web que construye sitios web y aplicaciones web que conduce al éxito del producto general.",
         "text-button": "Portafolio"
     },
     "about":{
         "title": "Sobre Mi",
-        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis iure repudiandae, eaque sequi doloremque eveniet eligendi, quaerat deleniti alias, sit assumenda placeat tempore reiciendis possimus fugiat! Quia ad ipsam autem."
+        "text": "Soy un desarrollador web que crea aplicaciones, puedo estar del lado frontend y backend, he trabajado como desarrollador usando reaccionar y laravel.",
+        "text-2" : "Estoy abierto a oportunidades laborales donde pueda contribuir, aprender y crecer. Si tienes una buena oportunidad que coincida con mis habilidades y experiencia, no dudes en contactarme."
     },
     "portfolio":{
         "title": "Portafolio",
@@ -35,5 +36,9 @@
         "text" : "elige tu idioma",
         "alt-espanol":"icono de bandera español",
         "alt-ingles": "icono de bandera ingles"
+    },
+    "footer":{
+        "text": "Soy Renzo Boneth, un apasionado desarrollador web comprometido con la excelencia en cada línea de código. Mi misión es impulsar el éxito en la web mediante la mejora continua de la tecnología, ofreciendo soporte profesional y creando experiencias de usuario perfectas.",
+        "secondary-text": "Renzo Boneth. Todos los derechos reservados. Desarrollado con ❤️ y código limpio."
     }
 }

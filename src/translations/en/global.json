@@ -7,13 +7,14 @@
         "contact": "Contact"
     },
     "home":{
-        "title": "im a full stack developer",
-        "text": "iure repudiandae, eaque sequi doloremque eveniet eligendi, quaerat deleniti alias, sit assumenda placeat tempore reiciendis possimus fugiat! Quia ad ipsam autem.",
+        "title": "junior web developer",
+        "text": "My name is Renzo Boneth, I am a web developer who creates websites and web applications that lead to overall product success.",
         "text-button": "Portfolio"
     },
     "about":{
         "title": "About",
-        "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis iure repudiandae, eaque sequi doloremque eveniet eligendi, quaerat deleniti alias, sit assumenda placeat tempore reiciendis possimus fugiat! Quia ad ipsam autem."
+        "text": "I am a web developer who creates applications, I can be on the frontend and backend side, I have worked as a developer using react and laravel.",
+        "text-2" : "I'm open to Job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to contact me."
     },
     "portfolio":{
         "title": "Portfolio",
@@ -35,5 +36,9 @@
         "text" : "Choose your language",
         "alt-espanol":"Spanish flag icon",
         "alt-ingles": "icono de bandera english"
+    },
+    "footer":{
+        "text": "I am Renzo Boneth, a passionate web developer committed to excellence in every line of code. My mission is to drive success on the web through continuous improvement of technology, providing professional support, and creating perfect user experiences.",
+        "secondary-text": "Renzo Boneth. All rights reserved. Developed with ❤️ and clean code."
     }
 }
